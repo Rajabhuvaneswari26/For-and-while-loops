@@ -1,0 +1,2 @@
+Enter a number: 543
+The sum of digits is 12
