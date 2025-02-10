@@ -1,0 +1,3 @@
+Enter a number:234
+The last digit is 4 
+The first digit is 2
