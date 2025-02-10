@@ -1,0 +1,2 @@
+Enter a number:456
+The sum of first and last digit is 10 
