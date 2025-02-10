@@ -1,0 +1,3 @@
+Enter upper limit: 50
+Armstrong number between 1 to 50 are: 
+1, 2, 3, 4, 5, 6, 7, 8, 9, 
