@@ -1,0 +1,2 @@
+Enter a number:123
+the number of digits is 3
