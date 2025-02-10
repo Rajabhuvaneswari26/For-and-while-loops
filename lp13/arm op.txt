@@ -1,0 +1,2 @@
+Enter any number to check Armstrong number: 43
+43 is NOT ARMSTRONG NUMBER
