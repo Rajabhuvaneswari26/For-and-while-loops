@@ -1,0 +1,2 @@
+Enter any number:10
+the sum of odd numbers is 18
