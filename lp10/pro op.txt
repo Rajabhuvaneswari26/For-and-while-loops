@@ -1,0 +1,2 @@
+Enter a number: 345
+The product of digits is 60
